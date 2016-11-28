@@ -1,4 +1,3 @@
-TODO - RE Edit
 Use the new grafana-cli tool to install piechart-panel from the commandline:
 
 ```
